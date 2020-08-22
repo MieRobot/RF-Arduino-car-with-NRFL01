@@ -14,7 +14,7 @@ Receiver RF Car connections are as below
    8 - UNUSED
    
    
-   [![IMAGE ALT TEXT](http://img.youtube.com/vi/9q4_YfoUSUU/0.jpg)](http://www.youtube.com/watch?v=v=9q4_YfoUSUU "RF-Arduino-car-with-NRFL01")
+   [![IMAGE ALT TEXT](http://img.youtube.com/vi/9q4_YfoUSUU/0.jpg)](http://www.youtube.com/watch?v=9q4_YfoUSUU "RF-Arduino-car-with-NRFL01")
    
    Update on 22th Aug 2020:
    a) Do not use the RX and TX in arduino to use for L298 pins
@@ -23,5 +23,5 @@ Receiver RF Car connections are as below
    Code walkthrough and testing videos uploaded below
    
    
-   [![IMAGE ALT TEXT](http://img.youtube.com/vi/XI8eSj_gIkw/0.jpg)](http://www.youtube.com/watch?v=v=XI8eSj_gIkw "PS2 Vs nRF24L01 which robot is better?")
+   [![IMAGE ALT TEXT](http://img.youtube.com/vi/XI8eSj_gIkw/0.jpg)](http://www.youtube.com/watch?v=XI8eSj_gIkw "PS2 Vs nRF24L01 which robot is better?")
    
