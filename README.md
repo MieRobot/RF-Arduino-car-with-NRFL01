@@ -1,4 +1,4 @@
-# RF-Arduino-car-with-NRFL01
+# RF-Arduino-car-with-nRF24L01 
 
 This is a work in progress of a nRF24L01 RF robot car with Arduino UNO. Refer the transmitter and receiver code in the main project. Any issues you can comment in the issues section.
 
