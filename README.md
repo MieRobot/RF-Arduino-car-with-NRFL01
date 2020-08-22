@@ -19,3 +19,9 @@ Receiver RF Car connections are as below
    Update on 22th Aug 2020:
    a) Do not use the RX and TX in arduino to use for L298 pins
    b) You would need to callibrate your transmitter for the rest position, I had x as 347 and y as 334
+   
+   Code walkthrough and testing videos uploaded below
+   
+   
+   [![IMAGE ALT TEXT](http://img.youtube.com/vi/XI8eSj_gIkw/0.jpg)](http://www.youtube.com/watch?v=v=XI8eSj_gIkw "PS2 Vs nRF24L01 which robot is better?")
+   
