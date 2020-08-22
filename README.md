@@ -13,5 +13,9 @@ Receiver RF Car connections are as below
    7 - MISO to Arduino pin 12
    8 - UNUSED
    
-   Video here below.
+   
    [![IMAGE ALT TEXT](http://img.youtube.com/vi/9q4_YfoUSUU/0.jpg)](http://www.youtube.com/watch?v=v=9q4_YfoUSUU "RF-Arduino-car-with-NRFL01")
+   
+   Update on 22th Aug 2020:
+   a) Do not use the RX and TX in arduino to use for L298 pins
+   b) You would need to callibrate your transmitter for the rest position, I had x as 347 and y as 334
